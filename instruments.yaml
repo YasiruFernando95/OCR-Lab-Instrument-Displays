@@ -1,0 +1,5 @@
+train: C:\Users\Yasiru Fernando\Desktop\DLCV Project\dataset\images\train
+val: C:\Users\Yasiru Fernando\Desktop\DLCV Project\dataset\images\val
+
+nc: 11
+names: ['Centrifuge','Clamp Meter','Digital Multimeter','Function Generator','Overhead Mixer','Power Supply','Rework Station','Soldering Station','Thermometer','Water Bath','Weighing Scale']
